@@ -167,7 +167,7 @@ export function Projects() {
               More Projects
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6 max-w-2xl mx-auto">
-              I'm constantly working on new projects and contributing to open-source initiatives. 
+              I&apos;m constantly working on new projects and contributing to open-source initiatives. 
               Check out my GitHub profile for more of my work and contributions.
             </p>
             <motion.a

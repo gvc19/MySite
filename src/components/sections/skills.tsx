@@ -93,7 +93,7 @@ export function Skills() {
               Always Learning
             </h3>
             <p className="text-gray-700 dark:text-gray-300 max-w-2xl mx-auto">
-              I'm constantly exploring new technologies and frameworks to stay current with 
+              I&apos;m constantly exploring new technologies and frameworks to stay current with 
               industry trends. Currently diving deeper into cloud-native architectures, 
               advanced React patterns, and performance optimization techniques.
             </p>

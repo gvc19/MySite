@@ -31,19 +31,19 @@ export function About() {
         >
           <div className="space-y-6">
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              I'm a passionate Full Stack Developer with expertise in modern web technologies. 
+              I&apos;m a passionate Full Stack Developer with expertise in modern web technologies. 
               I specialize in building scalable applications using React, Next.js, .NET Core, 
               and cloud technologies.
             </p>
             
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              With experience in healthcare technology, I've developed Electronic Medical Record (EMR) 
+              With experience in healthcare technology, I&apos;ve developed Electronic Medical Record (EMR) 
               systems and Practice Management Systems that improve patient care and streamline clinical workflows. 
-              I'm passionate about creating solutions that make a real difference.
+              I&apos;m passionate about creating solutions that make a real difference.
             </p>
             
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              I believe in clean code, scalable architecture, and continuous learning. When I'm not coding, 
+              I believe in clean code, scalable architecture, and continuous learning. When I&apos;m not coding, 
               you can find me exploring new technologies, contributing to open-source projects, or sharing 
               knowledge with the developer community.
             </p>

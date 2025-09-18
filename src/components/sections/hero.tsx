@@ -26,7 +26,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            Hi, I'm{' '}
+            Hi, I&apos;m{' '}
             <span className="text-gray-600 dark:text-gray-400">Gagan V C</span>
           </motion.h1>
           
